@@ -1,0 +1,24 @@
+Diagrama de Classe UML para iPhone:
+
++------------------------------------+
+|               iPhone               |
+|------------------------------------|
+| + ReprodutorMusical                |
+| + AparelhoTelefonico               |
+| + NavegadorInternet                |
+|------------------------------------|
+| + tocar()                          |
+| + pausar()                         |
+| + selecionarMusica()              |
+| + ligar()                          |
+| + atender()                        |
+| + iniciarCorreioVoz()              |
+| + exibirPagina()                   |
+| + adicionarNovaAba()               |
+| + atualizarPagina()                |
++------------------------------------+
+
+Interfaces:
+- ReprodutorMusical
+- AparelhoTelefonico
+- NavegadorInternet
